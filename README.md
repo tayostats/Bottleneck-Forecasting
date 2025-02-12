@@ -34,7 +34,7 @@ Key Components and Methodology:
     Streamlit App:
     Interactive web app for data visualization and forecasting.
     Users can select a process step and forecast horizon, view statistics, histograms, and trend predictions.
-    Tableau Public Dashboard:
+    Tableau Public Dashboard: https://public.tableau.com/views/BottleneckForecasting/Sheet2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
     Interactive visualizations including time series plots and histograms.
     Parameter controls allow users to explore different scenarios.
     Potential JavaScript API integration for dynamic embedding.
